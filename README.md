@@ -2,7 +2,7 @@
 
 Road to 
 Junior Golang 
-Fullstack Developer 
+Fullstack Developer   
 ████████░░░░░░░░░░░░░░░░ %33
 
 ### Golang Levels:
