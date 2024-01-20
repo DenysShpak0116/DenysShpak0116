@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there ヾ( ˃ᴗ˂ )◞ • *✰
 
-### Road to 
-### Junior Golang 
-### Fullstack Developer 
+Road to 
+Junior Golang 
+Fullstack Developer 
 ████████░░░░░░░░░░░░░░░░ %33
 
 ### Golang Levels:
-☑ Begginer
-☐ Trainee
-☐ Junior
-☐ Middle
-☐ Senior
+☑ Begginer  
+☐ Trainee  
+☐ Junior  
+☐ Middle  
+☐ Senior  
 
 ### Skills:
 git  |  sqlx  |  mysql  
